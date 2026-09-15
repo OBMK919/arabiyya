@@ -1,0 +1,13 @@
+{
+  "name": "Arabiyya - Apprendre l'arabe",
+  "short_name": "Arabiyya",
+  "description": "Application d'apprentissage de l'arabe 100% hors ligne",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f5",
+  "theme_color": "#0f5132",
+  "lang": "fr",
+  "dir": "ltr"
+}
